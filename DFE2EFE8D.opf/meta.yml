@@ -1,0 +1,22 @@
+id: DFE2EFE8D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:59:00+00:00'
+last_modified: '2022-05-26T06:06:54.268800+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    eafe:
+      image_group_id: I1PD95846
+      title: བླ་ན་མེད་པའི་བསྟོད་པ།
+      total_pages: 1539
+      order: 1
+      base_file: eafe.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

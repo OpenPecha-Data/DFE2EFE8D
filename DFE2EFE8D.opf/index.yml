@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   cc23cba2be204cf5bfc442e5af70d808:
     parts: {}
+    work_id: D1130
     span:
-    - vol: 1
+    - base: eafe
       start: 1
       end: 1330
-    work_id: D1130
